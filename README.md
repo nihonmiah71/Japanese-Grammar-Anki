@@ -4,7 +4,7 @@ Due to filesize issues the deck (old version) with audiofiles can be found on [h
 
 The light version without the audiofiles is here
 
-You cannot rename the deck otherwise the crawler addon will not work
+You cannot rename the deck otherwise the crawler addon will not work (so rename it to "grammar" after you downloaded it)
 
 # JLPT Grammar Graph Database
 
