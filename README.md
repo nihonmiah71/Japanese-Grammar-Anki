@@ -21,25 +21,16 @@ These optional add-ons enhance the functionality of the note type but are not st
 
 ---
 
-## Optional functionality: Grammar as a Network (Explanation of Relation Degree Graph & Crawler add-on)
+## Note Visuals and Functionality Demo
 
-This feature is used for exploring semantic relations (grammar points with similar meanings). For finding grammar points that look phonetically similar, a simple text search in the Anki browser may be more effective.
+https://github.com/user-attachments/assets/0e4ca214-63b5-4fa3-8457-0beb05aa9284
 
-A card is defined as "related" based on three pillars:
 
-1. **JLPT Level Proximity:** Proximity within the formal testing hierarchy.
-2. **Phonetic Similarity:** Structures sharing the same keywords (e.g., structures using *wake*, *mono*, or *nagara*).
-3. **Semantic Overlap:** How closely the meanings or nuances align.
+## Crawler Addon Demo
 
-The addon also provides the following functionalities
+With the Crawler Addon you can create clusters and with the help of the NoteLinker addon (see setup) you can also visualize the connections in a anki native overview
 
-* **Dynamic Tagging:** Scans the database for connected grammar points by degrees of proximity.
-* **Cluster Creation:** Allows tagging the identified group.
-* **Interactive Visualization:** Maps how one concept branches into others across different JLPT levels.
-
-With the help of the NoteLinker addon (see setup) you can also visualize the connections in a anki native overview
-
-The " みたい" Family of degree 1, 2, 3:
+The " みたい" cluster of degree 2 and 3:
 
 Video Link for degree 2:
 [https://github.com/user-attachments/assets/01ecc6cf-03b4-4220-b0d1-26857b3ef7c2](https://github.com/user-attachments/assets/01ecc6cf-03b4-4220-b0d1-26857b3ef7c2)
@@ -49,7 +40,7 @@ Video Link for degree 3:
 
 ---
 
-## Big Graph Demonstration
+## Big Graph Demo
 
 Big Graph Demo Video click link:
 
