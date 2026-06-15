@@ -31,17 +31,13 @@ A card is defined as "related" based on three pillars:
 2. **Phonetic Similarity:** Structures sharing the same keywords (e.g., structures using *wake*, *mono*, or *nagara*).
 3. **Semantic Overlap:** How closely the meanings or nuances align.
 
-### The "Family Tree" (Relation Degree)
-
-You can explore these connections through a visual graph.
-
-🔗 **[View the Relation Degree Graph](https://ankiweb.net/shared/info/1321136162?cb=1775920447065)** (AnkiWeb ID: 1321136162)
-
-Functions of this add-on:
+The addon also provides the following functionalities
 
 * **Dynamic Tagging:** Scans the database for connected grammar points by degrees of proximity.
 * **Cluster Creation:** Allows tagging the identified group.
 * **Interactive Visualization:** Maps how one concept branches into others across different JLPT levels.
+
+With the help of the NoteLinker addon (see setup) you can also visualize the connections in a anki native overview
 
 The " みたい" Family of degree 1, 2, 3:
 
